@@ -2,7 +2,7 @@
 
  **1. Introduction**
  
-The **Movie Recommendation System** is a web application that suggests movies to users based on their preferences. It uses **Dijkstra’s Algorithm** to find the most similar movies based on genres and cast. The system is built using **Django** and **Flask** for the backend, a JSON file for storing movie data, and a Python Streamlit / PyQt / Tkinter for the frontend.
+The **Movie Recommendation System** is a web application that suggests movies to users based on their preferences. It uses **Dijkstra’s Algorithm** to find the most similar movies based on genres and cast. The system is built using **Django** and **Flask** for the backend, a JSON file for storing movie data, and a Python Streamlit for the frontend.
 
  ### some basic command are
  first colne the project to run in local system 
