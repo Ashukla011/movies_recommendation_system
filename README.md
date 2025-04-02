@@ -1,4 +1,4 @@
-# Project Report: Movie Recommendation System
+# Movie Recommendation System
 
  **1. Introduction**
  
